@@ -11,4 +11,9 @@
       <property name="Name" value="p1shadow" type="string" />
     </properties>
   </tile>
+  <tile id="2">
+    <properties>
+      <property name="Name" value="p1rat" type="string" />
+    </properties>
+  </tile>
 </tileset>

@@ -4,7 +4,7 @@
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -14,7 +14,7 @@
       "SpriteType": "Attached_16colors",
       "Path": "shadow1.png",
       "HandleX": -8,
-      "HandleY": -8,
+      "HandleY": -13,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
@@ -25,7 +25,7 @@
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -33,20 +33,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow2.png",
+      "Path": "foods3.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow2",
+      "Name": "foods3",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -54,20 +54,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow3.png",
+      "Path": "foods4.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow3",
+      "Name": "foods4",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -75,20 +75,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow4.png",
+      "Path": "foods5.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow4",
+      "Name": "foods5",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -96,20 +96,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow5.png",
+      "Path": "foods6.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow5",
+      "Name": "foods6",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -117,20 +117,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow6.png",
+      "Path": "foods7.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow6",
+      "Name": "foods7",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -138,20 +138,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow7.png",
+      "Path": "foods8.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow7",
+      "Name": "foods8",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -159,20 +159,20 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow8.png",
+      "Path": "foods9.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow8",
+      "Name": "foods9",
       "IsBlank": false
     },
     {
       "EventContainer": {
         "Events": []
       },
-      "Duration": 0,
+      "Duration": 5,
       "Multiplexes": 0,
       "PaletteLine": 0,
       "PaletteLineNeo": 0,
@@ -180,13 +180,13 @@
       "Bitplane": 0,
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
-      "Path": "shadow9.png",
+      "Path": "foods10.png",
       "HandleX": -8,
       "HandleY": -8,
       "XFlipped": false,
       "HighPriority": false,
       "ZeroIsTransparent": false,
-      "Name": "shadow9",
+      "Name": "foods10",
       "IsBlank": false
     }
   ],

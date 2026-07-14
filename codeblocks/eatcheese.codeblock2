@@ -1,0 +1,3 @@
+SetBlock none
+Set cheesegot=cheesegot+1
+Set cheese2go=cheesemax-cheesegot

@@ -13,7 +13,7 @@
       "RenderType": "Normal",
       "SpriteType": "Attached_16colors",
       "Path": "rats1.png",
-      "HandleX": -7,
+      "HandleX": -6,
       "HandleY": -15,
       "XFlipped": false,
       "HighPriority": false,
