@@ -5,3 +5,4 @@ Level kitchen
 CameraPosition X=240 Y=250 Center
 # Window gameui X=100 Y=200
 GoSub cheesecount
+Window gameui X=100 Y=3

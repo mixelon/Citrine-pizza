@@ -75,6 +75,7 @@
   </tile>
   <tile id="3">
     <properties>
+      <property name="Name" value="mould_monster" type="string" />
       <property name="IsPlatform" value="False" type="bool" />
       <property name="IsSolid" value="False" type="bool" />
       <property name="MD_Palette_TL" type="string" />
@@ -94,6 +95,7 @@
       <property name="Neo_AutoAnim" value="False" type="bool" />
       <property name="AnimateProperties" value="False" type="bool" />
     </properties>
+    <animation />
   </tile>
   <tile id="4">
     <properties>

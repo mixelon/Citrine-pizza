@@ -1,23 +1,27 @@
-Compiled on 13 September 2026 02:59:27
-Version string: SE2026.0.260912.18.47.EX
+Compiled on 03 August 2026 20:13:56
+Version string: SE2026.0.260802.12.10.EX
 
 === Misc ===
-ImageFrames: 31
-ImageFrame Data Size: 1116
+ImageFrames: 28
+ImageFrame Data Size: 1232
 Maps and Asset Bundles Count: 3
 Maps and Asset Bundles Data Size: 0
-Actor Count: 5
-Actor Data Size: 900
-Block Count: 3
-Block Data Size: 204
+Actor Count: 4
+Actor Data Size: 720
+Block Count: 2
+Block Data Size: 136
+Anim5 Count: 0
+Anim5 Data Size: 0
 Sound Count: 1
 Sound Data Size: 28
 Teleporter Count: 1
 Teleporter Data Size: 8
-Animations Count: 8
-Animations Data Size: 128
-AnimationFrame Count: 32
-AnimationFrame Data Size: 512
+Animations Count: 7
+Animations Data Size: 112
+AnimationFrame Count: 29
+AnimationFrame Data Size: 464
+Sprites: 1
+Sprites Data Size: 12
 Attack Data: 1
 Attack Data Size: 88
 Misc data size: 74
@@ -26,44 +30,44 @@ Misc data size: 74
  Header |   Offset | Size     | Crunch    | Detail
    PG-1 |      512 |     5912 |   Implode | Plugin: PT Player
    PL03 |      364 |      118 |   Implode | Panel (background color #000)
-   PL01 |     6424 |     3392 |   Implode | Panel scorpion_eng_splashscreen
-   PL02 |     9816 |      254 |   Implode | Panel gameui
-   PC02 |    10070 |      540 |   Implode | Panel bobs gameui
-   VV00 |    10610 |      128 |   Implode | Project Variables
-   VC00 |    10738 |     2584 |   Implode | Project virtual machine (codeblocks)
-   MA01 |    13322 |      102 |   Implode | Map actor data for kitchen
-   MH01 |    13424 |      204 |   Implode | Header data for map kitchen
-   MD01 |    13628 |      950 |   Implode | Tile data for map kitchen (mem restrictions:None)
-   MA02 |      482 |       28 |  NoCrunch | Map actor data for level1
-   MH02 |    14578 |      202 |   Implode | Header data for map level1
-   MD02 |    14780 |      606 |   Implode | Tile data for map level1 (mem restrictions:None)
-   AB00 |    15386 |     2448 |   Implode | Asset bundle 0 (Core project asset bundle)
-   AB01 |    17834 |    10556 |   Implode | Asset bundle 1 (kitchen)
-   AB02 |    28390 |    10154 |   Implode | Asset bundle 2 (level1)
-   DB00 |    38544 |        2 |  NoCrunch | Misc Data (paths, hurt boxes etc)
-   PH00 |    38546 |     1266 |   Implode | Project Header
-   PD00 |    39812 |      854 |   Implode | Project Data
-   VR00 |    40666 |        4 |  NoCrunch | Project virtual machine redirects
+   PL01 |     6424 |     3390 |   Implode | Panel scorpion_eng_splashscreen
+   PL02 |     9814 |      268 |   Implode | Panel gameui
+   PC02 |    10082 |      540 |   Implode | Panel bobs gameui
+   VV00 |    10622 |      128 |   Implode | Project Variables
+   VC00 |    10750 |     2582 |   Implode | Project virtual machine (codeblocks)
+   MA01 |      482 |       28 |  NoCrunch | Map actor data for kitchen
+   MH01 |    13332 |      206 |   Implode | Header data for map kitchen
+   MD01 |    13538 |      812 |   Implode | Tile data for map kitchen (mem restrictions:None)
+   MA02 |    14350 |       28 |  NoCrunch | Map actor data for level1
+   MH02 |    14378 |      202 |   Implode | Header data for map level1
+   MD02 |    14580 |      606 |   Implode | Tile data for map level1 (mem restrictions:None)
+   AB00 |    15186 |     2180 |   Implode | Asset bundle 0 (Core project asset bundle)
+   AB01 |    17366 |    10550 |   Implode | Asset bundle 1 (kitchen)
+   AB02 |    27916 |    10154 |   Implode | Asset bundle 2 (level1)
+   DB00 |    38070 |        2 |  NoCrunch | Misc Data (paths, hurt boxes etc)
+   PH00 |    38072 |     1268 |   Implode | Project Header
+   PD00 |    39340 |      760 |   Implode | Project Data
+   VR00 |    40100 |        4 |  NoCrunch | Project virtual machine redirects
 
 === Data Sizes ===
     Size |   Memory | Crunch | Detail
-   10556 |    18174 |  (42%) | Asset bundle 1 (kitchen)
+   10550 |    17762 |  (41%) | Asset bundle 1 (kitchen)
    10154 |    16494 |  (39%) | Asset bundle 2 (level1)
     5912 |    13538 |  (57%) | Plugin: PT Player
-    3392 |    36792 |  (91%) | Panel scorpion_eng_splashscreen
-    2584 |     8180 |  (69%) | Project virtual machine (codeblocks)
-    2448 |     5102 |  (53%) | Asset bundle 0 (Core project asset bundle)
-    1266 |     4508 |  (72%) | Project Header
-     950 |     7178 |  (87%) | Tile data for map kitchen (mem restrictions:None)
-     854 |     3060 |  (73%) | Project Data
+    3390 |    36784 |  (91%) | Panel scorpion_eng_splashscreen
+    2582 |     8136 |  (69%) | Project virtual machine (codeblocks)
+    2180 |     4346 |  (50%) | Asset bundle 0 (Core project asset bundle)
+    1268 |     4508 |  (72%) | Project Header
+     812 |     7178 |  (89%) | Tile data for map kitchen (mem restrictions:None)
+     760 |     2876 |  (74%) | Project Data
      606 |     5456 |  (89%) | Tile data for map level1 (mem restrictions:None)
      540 |     2980 |  (82%) | Panel bobs gameui
-     254 |     1824 |  (87%) | Panel gameui
-     204 |      848 |  (76%) | Header data for map kitchen
+     268 |     1848 |  (86%) | Panel gameui
+     206 |      848 |  (76%) | Header data for map kitchen
      202 |      848 |  (77%) | Header data for map level1
      128 |      974 |  (87%) | Project Variables
      118 |     4932 |  (98%) | Panel (background color #000)
-     102 |      196 |  (48%) | Map actor data for kitchen
+      28 |       28 |        | Map actor data for kitchen
       28 |       28 |        | Map actor data for level1
        4 |        4 |        | Project virtual machine redirects
        2 |        2 |        | Misc Data (paths, hurt boxes etc)
@@ -72,19 +76,19 @@ Misc data size: 74
 (Note that this isn't a full account of memory usage, just the memory we can account for)
 
 For chip:
-Map gfx (Panel: scorpion_eng_splashscreen): 36792
+Map gfx (Panel: scorpion_eng_splashscreen): 36784
 Music sample (): 0
 BP Buffer memory: 121000
-Core sfx/gfx memory: 5102
+Core sfx/gfx memory: 4346
 Parallax memory: 0
 OS/other estimated: 99328
 
 For other:
 Map data memory: 7178
 Map background memory: 4932
-EXE memory: 225536
-vm memory: 8180
-project memory: 3060
+EXE memory: 222216
+vm memory: 8136
+project memory: 2876
 Music data (): 0
 Misc data memory: 2
 Plugin: PT Player: 13538
@@ -93,21 +97,21 @@ memory reserved for active actors on screen (32): 5064
 memory reserved for dormant actors in map (128): 4608
 OS/other estimated: 105472
 
-Accounted memory chip: 262222
-Accounted memory other: 378544
-Accounted memory total: 640766
+Accounted memory chip: 261458
+Accounted memory other: 374996
+Accounted memory total: 636454
 
 === Codeblocks by compiled size ===
 load_level: 644
-pre_startup: 376
+pre_startup: 380
 do_teleport: 320
 flipscreen_smooth: 310 (Unused?)
+freemem: 296
 flipxymove: 278 (Unused?)
-freemem: 268
 load_next_level: 268 (Unused?)
-startup: 226
 block_find: 210 (Unused?)
 set_yresolution: 208
+startup: 200
 waitforframes: 194
 check_talkpad: 192 (Unused?)
 pause: 184
@@ -135,7 +139,6 @@ load_panel_top: 96
 destroy_child_actors: 94 (Unused?)
 pre_load_level: 86
 waitforfirehit: 86
-monsterhit: 86
 fadeout: 76
 wrap_screen_bottom: 76 (Unused?)
 wrap_screen_right: 76 (Unused?)
@@ -145,6 +148,7 @@ flipscreen: 72 (Unused?)
 wrap_screen_left: 72 (Unused?)
 wrap_screen_top: 72 (Unused?)
 jump_actor: 66 (Unused?)
+levelloop: 62
 destroy_all_actors: 60 (Unused?)
 quit: 60 (Unused?)
 destroy_actor: 58
@@ -163,4 +167,3 @@ debug_breakpoint: 26 (Unused?)
 hardware: 26 (Unused?)
 vm_constants_tile_properties: 26 (Unused?)
 vm_registers: 26 (Unused?)
-levelloop: 26 (Unused?)

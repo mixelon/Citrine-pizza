@@ -1,0 +1,81 @@
+{
+  "Frames": [
+    {
+      "EventContainer": {
+        "Events": []
+      },
+      "Duration": 3,
+      "Multiplexes": 0,
+      "PaletteLine": 0,
+      "PaletteLineNeo": 0,
+      "ShrinkPaddingNeo": 0,
+      "Bitplane": 0,
+      "RenderType": "Normal",
+      "SpriteType": "Attached_16colors",
+      "Path": "mould1.png",
+      "HandleX": -8,
+      "HandleY": -8,
+      "XFlipped": false,
+      "HighPriority": false,
+      "ZeroIsTransparent": false,
+      "Name": "mould1",
+      "IsBlank": false
+    },
+    {
+      "EventContainer": {
+        "Events": []
+      },
+      "Duration": 3,
+      "Multiplexes": 0,
+      "PaletteLine": 0,
+      "PaletteLineNeo": 0,
+      "ShrinkPaddingNeo": 0,
+      "Bitplane": 0,
+      "RenderType": "Normal",
+      "SpriteType": "Attached_16colors",
+      "Path": "mould2.png",
+      "HandleX": -8,
+      "HandleY": -8,
+      "XFlipped": false,
+      "HighPriority": false,
+      "ZeroIsTransparent": false,
+      "Name": "mould2",
+      "IsBlank": false
+    },
+    {
+      "EventContainer": {
+        "Events": []
+      },
+      "Duration": 3,
+      "Multiplexes": 0,
+      "PaletteLine": 0,
+      "PaletteLineNeo": 0,
+      "ShrinkPaddingNeo": 0,
+      "Bitplane": 0,
+      "RenderType": "Normal",
+      "SpriteType": "Attached_16colors",
+      "Path": "mould3.png",
+      "HandleX": -8,
+      "HandleY": -8,
+      "XFlipped": false,
+      "HighPriority": false,
+      "ZeroIsTransparent": false,
+      "Name": "mould3",
+      "IsBlank": false
+    }
+  ],
+  "PreventAttack": false,
+  "PreventMovement": false,
+  "PreventCollision": false,
+  "PreventJump": false,
+  "IsSynchronised": false,
+  "IsScaleable": false,
+  "HideChildren": false,
+  "LoopFrame": 0,
+  "OnFinish": null,
+  "AutoFlip": null,
+  "Streamed": true,
+  "SlowFlip": true,
+  "AnimationTag": null,
+  "LinkedMap": ""
+}
